@@ -6,8 +6,4 @@
 
 #### Workload
 
-Charli - CardManager and Test
-Sruthi - Intialise Event, GameState and GameLogic
-Weifan - Grid class
-Chen - Report
-Saranya - Player Class, Test and restructuring for integration
+Full workload record please see at the Sprint Report.
